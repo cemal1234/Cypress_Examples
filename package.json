@@ -1,0 +1,16 @@
+{
+  "name": "cypress-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "runHeadless": "C:/Users/200551/CypressAutomation/node_modules/.bin/cypress run --headless --browser electron",
+    "runHeaded": "C:/Users/200551/CypressAutomation/node_modules/.bin/cypress run --headed"
+  },
+  "author": "Cemal Atayeter",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.0.3"
+  }
+}
